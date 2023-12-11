@@ -1,0 +1,6 @@
+
+Computed Models :
+
+    Model 1 : Gaussian (63.2614, 22.85 with proportion of 1
+
+Done with 2 iterations and accuracy of 0.0001
